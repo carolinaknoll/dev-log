@@ -1,4 +1,4 @@
-## :octocat: Songs and playlists to keep the noise away and stay motivated/focused on our tasks.
+### :headphones: Songs and playlists to keep the noise away and stay motivated/focused on our tasks.
 ***
 
 #### Calm:
@@ -19,7 +19,7 @@
 
 #### Melodic:
 
-2. [C​:​\​>EDIT AUTOEXEC​.​BAT](https://masterbootrecord.bandcamp.com/album/c-edit-autoexec-bat) (MASTER BOOT RECORD)
+1. [C​:​\​>EDIT AUTOEXEC​.​BAT](https://masterbootrecord.bandcamp.com/album/c-edit-autoexec-bat) (MASTER BOOT RECORD)
 
 #### Experimental:
 
